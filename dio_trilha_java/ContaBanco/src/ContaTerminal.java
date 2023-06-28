@@ -1,5 +1,4 @@
 
-
 import java.util.Scanner;
 
 class ContaTerminal {
@@ -22,6 +21,7 @@ class ContaTerminal {
         System.out.println(" \n Olá " + nomeCliente + " ,obrigado por criar uma conta em nosso banco, " +
                 "sua agência é " + agencia + " conta " + conta + " e  seu saldo " + saldo
                 + " já está disponivel para saque \n");
+
     }
 
 }
